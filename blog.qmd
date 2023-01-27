@@ -1,0 +1,22 @@
+Hola! En esta sección quiero que compartir algunas notas interesantes, papers, trabajos de divulgación o trabajos de investigación que actualmente estoy enfocado.
+
+## Chat GPT
+:::: columns
+
+::: {.column width="55%"}
+Los avances de la Inteligencia Artificial cada día son sorprendentes, la nueva noticia sobre el ChatGPT han generado varias controversias, entre ellos ayudar en la realización fraudulenta de tareas, pero también es de utilidad en la generación y corrección de código.
+
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="40%"}
+![](images/chatGPT.jpg)
+:::
+>"Soy ChatGPT, un modelo de lenguaje grande entrenado por OpenAI.
+Fui creado para generar texto en base a un contexto dado.
+Sirvo para responder preguntas, generar textos y realizar tareas de procesamiento del lenguaje natural.
+Para utilizar mis herramientas, puedes hacer preguntas directamente a través de esta interfaz de conversación.
+También se pueden utilizar mis capacidades a través de la API de OpenAI."
+::::

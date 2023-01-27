@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  navbar:
+    logo: "images/foto.png"
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: R.qmd
+        text: RStudio
+      - href: python.qmd
+        text: Python
+      - href: Power_BI.qmd
+        text: Power BI
+      - href: resume.qmd
+        text: Resume
+      - href: blog.qmd
+        text: Blog
+    right: 
+      - icon: github
+        href: https://github.com/Luis-Amagua
+      - icon: linkedin
+        href: https://www.linkedin.com/in/luis-amagua-obando/
+      - icon: envelope
+        href: mailto:luis_fabian25@hotmail.com?subject=Oferta%20Laboral&body=Estimado%20Luis%2C%0D%0A%0D%0AMe%20pareci%C3%B3%20interesante%20tu%20perfil%20y%20quiero%20proponerte%20un%20trabajo%2Fconsultor%C3%ADa%2Fmentor%C3%ADa%20de...
+      
+      
+
+format:
+  html:
+    theme: spacelab
+    css: styles.css
+    pdf: default
+    toc: true
+
+editor: visual
+
