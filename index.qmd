@@ -1,0 +1,63 @@
+```{r, echo=FALSE}
+# agregar imagen: ![](images/foto.png){fig-align="center" width="60%"}
+#fuente de la letra
+#https://fontmeme.com/fuentes/fuente-tahu/
+```
+
+# Acerca de mí
+
+Hola! mi nombre es Luis y soy Ingeniero Matemático me gusta analizar datos para entender patrones y de esta forma extraer información para la toma de decisiones. La exploración y visualización de datos me parecen fascinantes. Actualmente estoy mejorando mis habilidades en Deep Learning ya que tengo un alto interés en enfocarme en trabajos de investigación en el campo de Computer Vision.
+
+------------------------------------------------------------------------
+
+# Habilidades
+
+-   Comunicación efectiva.
+
+-   Organización y trabajo en equipo.
+
+-   Análisis de resultados.
+
+------------------------------------------------------------------------
+
+# Herramientas de Análisis
+
+-   RStudio
+
+-   Python
+
+-   Power BI
+
+-   SQL
+
+-   Excel
+
+------------------------------------------------------------------------
+
+# Actividades extracurriculares.
+
+## Youtube
+
+Durante pregrado participé como tutor académico en materias de formación básica de la universidad y al ser una persona paciente decidí abrir un canal de [YouTube](https://www.youtube.com/channel/UCOillrtP_9WX4FfYEBzAANw) para ayudar a estudiantes del nivel propedéutico de la EPN.
+
+Para 2023 mi meta es volver a realizar vídeos para compartir el conocimiento que he adquirido principalmente sobre Shiny, Power BI, y lo que me encuentro aprendiendo ahora sobre Redes Neuronales.
+
+## Proyecto CNA
+
+Desde la secundaria tuve pasión sobre la enseñanza, y durante varios años participé en tutorías en diferentes centros de nivelación académica y preuniversitarios, incluido algunos cursos de verano desarrollados por la asociación de estudiantes de la EPN, al terminar los cursos participé en el [Proyecto CNA](https://www.facebook.com/cnaquito) el cual es un centro de capacitación académica donde soy co-fundador y coordinador.
+
+Durante el funcionamiento del Proyecto CNA pude capacitar a estudiantes de diferentes universidades en cursos de forma presencial, remota, individual y grupal.
+
+## Club de Turismo
+
+A finales de 2022 en la EPN se formó el [club de turismo Politécnico](https://www.facebook.com/club.turismo.politecnico), una idea innovadora para desarrollar y fortalecer las habilidades de comunicación para estudiantes de la Universidad, en el cual pude ser miembro fundador y parte de la directiva durante 3 semestres, entre mis tareas se tenían la organización y coordinación durante las salidas de campo que hacía en club dentro y fuera de la ciudad.
+
+## Viajar
+
+Una de mis pasiones es viajar conocer nuevas personas y nuevos lugares, a inicio de 2023 empecé un viaje por latino américa para tener un intercambio cultural en diferentes países, para 2023 he conocido algunos lugares en Perú y Chile. Por esa razón decidí hacer un podcast para tener notas sobre mis viajes, y de esta forma recordar lo que he vivido durante los viajes.
+
+------------------------------------------------------------------------
+
+# Contáctame
+
+Si deseas comunicarte conmigo puedes acceder a los enlaces en la parte superior derecha.

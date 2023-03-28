@@ -1,0 +1,7 @@
+Durante mi formación universitaria he realizado algunos proyectos en *RStudio,* y alguno de esos proyectos los he adjuntado en un repositorio llamado *Rpubs*.
+
+A finales de 2021 participé como tutor del curso Introductorio a R en la asoimat (asociación de estudiantes de matemática de la Escuela Politécnica Nacional), en donde uno de los proyectos hechos durante el curso fué un análisis exploratorio de dataset del *titanic.*
+
+![](images/titanic.png)
+
+Puedes encontrar más detalle en el siguinte [link](https://rpubs.com/LuchoAmagua/Trabajo_Titanic)

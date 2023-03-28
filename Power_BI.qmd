@@ -1,0 +1,3 @@
+Los DataViz son de importancia para comunicar de forma gráfica el desempeño de una empresa, a continuación muestro proyectos personales que he desarrollado en cursos y algunos tips que he aprendido en proyectos de forma profesional.
+
+![](images/power_BI_1)

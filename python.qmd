@@ -1,0 +1,5 @@
+Me encuentro fortaleciendo mis habilidades en *Python* y de esta forma aprender más sobre computer vision.
+
+De las habilidades que estoy empezando a mejorar es python, el uso y manejo de librerías como seaborn el cual describo en el siguiente [link](https://github.com/Luis-Amagua/Visualizacion_datos_Python) de google colab.\
+
+![](images/python.png)
